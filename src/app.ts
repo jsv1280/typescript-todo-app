@@ -4,6 +4,7 @@ import cors from "cors"
 import todoRoutes from "./routes"
 
 const app: Express = express()
+app.use(express.json());
 
 const PORT: string | number = process.env.PORT || 4000
 
