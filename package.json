@@ -1,0 +1,8 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Experimental proyect with stack React-Typescript-Node-Express-Mongo",
+  "main": "index.js",
+  "author": "Jairo Salazar",
+  "license": "MIT"
+}
